@@ -66,6 +66,12 @@
 {
   # keep-sorted start case=no numeric=no block=yes
 
+  _02alexander = {
+    name = "Alexander Berntsson";
+    email = "alexande.berntsson@gmail.com";
+    github = "02alexander";
+    githubID = 28707703;
+  };
   _0b11stan = {
     name = "Tristan Auvinet Pinaudeau";
     email = "tristan@tic.sh";

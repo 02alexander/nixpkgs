@@ -2890,6 +2890,8 @@ self: super: with self; {
 
   controku = callPackage ../development/python-modules/controku { };
 
+  control = callPackage ../development/python-modules/control { };
+
   convertdate = callPackage ../development/python-modules/convertdate { };
 
   convertertools = callPackage ../development/python-modules/convertertools { };
@@ -16304,6 +16306,8 @@ self: super: with self; {
   slugid = callPackage ../development/python-modules/slugid { };
 
   sly = callPackage ../development/python-modules/sly { };
+
+  slycot = callPackage ../development/python-modules/slycot { };
 
   smart-meter-texas = callPackage ../development/python-modules/smart-meter-texas { };
 
