@@ -10584,6 +10584,8 @@ self: super: with self; {
 
   openfga-sdk = callPackage ../development/python-modules/openfga-sdk { };
 
+  opengen = callPackage ../development/python-modules/opengen {};
+
   openhomedevice = callPackage ../development/python-modules/openhomedevice { };
 
   openidc-client = callPackage ../development/python-modules/openidc-client { };
